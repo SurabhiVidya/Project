@@ -1,4 +1,4 @@
 From openjdk: 11
 EXPOSE 8080
-ADD target/json.jar json.jar
-ENTRYPOINT ["java","-jar","json.jar"]
+ADD target/jsonapi.jar jsonapi.jar
+ENTRYPOINT ["java","-jar","jsonapi.jar"]
