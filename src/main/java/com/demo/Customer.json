@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "xyz",
+  "address": {
+    "city": "Hyderabad",
+    "zipcode": 500032
+  },
+  "cities": [
+    "Gachibowli",
+    "Hitech City"
+  ]
+}
